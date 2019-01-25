@@ -1,28 +1,28 @@
-﻿using System;
+using System.Windows.Documents;
 using System.Collections.Generic;
-using System.Linq;
+using System.Collections.Generic;
 using System.Text;
-using System.Threading.Tasks;
+    }
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
+using System.Windows;
+using System.Text;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
+        public MainWindow()
 using System.Windows.Shapes;
-
+        {
 namespace WpfApp1
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+        public MainWindow()
     /// </summary>
-    public partial class MainWindow : Window
-    {
+    }
+using System.Threading.Tasks;
         public MainWindow()
         {
-            InitializeComponent();
-        }
-    }
-}
+using System.Collections.Generic;
+        public MainWindow()
+using System.Text;
+        public MainWindow()
