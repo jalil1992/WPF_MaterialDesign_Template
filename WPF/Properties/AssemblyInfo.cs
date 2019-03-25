@@ -1,28 +1,28 @@
 
 
-//[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
+[assembly: AssemblyVersion("1.0.0.0")]
 using System.Runtime.InteropServices;
 
+    ResourceDictionaryLocation.SourceAssembly //where the generic resource dictionary is located
 
-
-[assembly: AssemblyCulture("")]
+[assembly: AssemblyVersion("1.0.0.0")]
 
 [assembly: AssemblyTitle("WpfApp1")]
-
-)]
-
-
-
-//[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
-[assembly: AssemblyCulture("")]
-[assembly: AssemblyCulture("")]
-
-[assembly: AssemblyProduct("WpfApp1")]
 [assembly: AssemblyTrademark("")]
-[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyTrademark("")]
+
+    ResourceDictionaryLocation.SourceAssembly //where the generic resource dictionary is located
+
+
+[assembly: AssemblyCulture("")]
+[assembly: AssemblyCulture("")]
+
+
+[assembly: AssemblyTrademark("")]
+
 //In order to begin building localizable applications, set
-)]
-)]
+[assembly: AssemblyCulture("")]
+//In order to begin building localizable applications, set
 
 
 )]
@@ -33,7 +33,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTrademark("")]
 [assembly: ThemeInfo(
 //In order to begin building localizable applications, set
-
+[assembly: AssemblyVersion("1.0.0.0")]
 
 
 //[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
@@ -42,15 +42,15 @@ using System.Runtime.InteropServices;
 
 
 
-using System.Runtime.InteropServices;
+[assembly: AssemblyVersion("1.0.0.0")]
 
-                                              //(used if a resource is not found in the page,
+[assembly: AssemblyVersion("1.0.0.0")]
 //      Build Number
-//      Revision
+
 
 
 )]
-    ResourceDictionaryLocation.SourceAssembly //where the generic resource dictionary is located
-[assembly: AssemblyVersion("1.0.0.0")]
+
+
 //[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
 [assembly: AssemblyVersion("1.0.0.0")]
