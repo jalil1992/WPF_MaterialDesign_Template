@@ -1,55 +1,55 @@
 
 
-[assembly: AssemblyVersion("1.0.0.0")]
-using System.Runtime.InteropServices;
+
+
 
     ResourceDictionaryLocation.SourceAssembly //where the generic resource dictionary is located
 
 [assembly: AssemblyVersion("1.0.0.0")]
 
 [assembly: AssemblyTitle("WpfApp1")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyTrademark("")]
 
+[assembly: AssemblyCulture("")]
+//[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
     ResourceDictionaryLocation.SourceAssembly //where the generic resource dictionary is located
-
-
-[assembly: AssemblyCulture("")]
-[assembly: AssemblyCulture("")]
-
-
-[assembly: AssemblyTrademark("")]
 
 //In order to begin building localizable applications, set
 [assembly: AssemblyCulture("")]
+[assembly: AssemblyCulture("")]
+
+
+
+
+//In order to begin building localizable applications, set
+
 //In order to begin building localizable applications, set
 
 
 )]
 
 [assembly: AssemblyCulture("")]
-using System.Runtime.InteropServices;
+[assembly: AssemblyCulture("")]
 
 [assembly: AssemblyTrademark("")]
 [assembly: ThemeInfo(
-//In order to begin building localizable applications, set
+    ResourceDictionaryLocation.SourceAssembly //where the generic resource dictionary is located
 [assembly: AssemblyVersion("1.0.0.0")]
 
 
-//[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
-
-
+[assembly: AssemblyTitle("WpfApp1")]
 
 
 
 [assembly: AssemblyVersion("1.0.0.0")]
 
 [assembly: AssemblyVersion("1.0.0.0")]
+
+[assembly: AssemblyCulture("")]
 //      Build Number
 
 
 
-)]
+[assembly: AssemblyTitle("WpfApp1")]
 
 
 //[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
