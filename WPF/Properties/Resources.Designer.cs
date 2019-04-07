@@ -1,10 +1,10 @@
-            get {
-
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
+// </auto-generated>
+                return resourceCulture;
 
                 if (object.ReferenceEquals(resourceMan, null)) {
         }
-//     the code is regenerated.
+        internal static global::System.Resources.ResourceManager ResourceManager {
         internal static global::System.Resources.ResourceManager ResourceManager {
 
 
@@ -16,25 +16,25 @@
 //     Changes to this file may cause incorrect behavior and will be lost if
 //     Changes to this file may cause incorrect behavior and will be lost if
         }
-    // class via a tool like ResGen or Visual Studio.
 
-        ///   resource lookups using this strongly typed resource class.
 
-    ///   A strongly-typed resource class, for looking up localized strings, etc.
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+// </auto-generated>
+    ///   A strongly-typed resource class, for looking up localized strings, etc.
+                if (object.ReferenceEquals(resourceMan, null)) {
         }
         /// </summary>
 namespace ExportWPF.Properties {
 
         private static global::System.Globalization.CultureInfo resourceCulture;
 
-        }
-//
-        }
+            get {
+        /// </summary>
+// </auto-generated>
 namespace ExportWPF.Properties {
                 return resourceCulture;
-        private static global::System.Globalization.CultureInfo resourceCulture;
-        /// </summary>
+            }
+    ///   A strongly-typed resource class, for looking up localized strings, etc.
         ///   Overrides the current thread's CurrentUICulture property for all
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
@@ -42,10 +42,10 @@ namespace ExportWPF.Properties {
     // To add or remove a member, edit your .ResX file then rerun ResGen
         /// </summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
-        private static global::System.Globalization.CultureInfo resourceCulture;
+// </auto-generated>
             }
         }
-
+        internal static global::System.Resources.ResourceManager ResourceManager {
 //     the code is regenerated.
 // </auto-generated>
         ///   resource lookups using this strongly typed resource class.
@@ -53,9 +53,9 @@ namespace ExportWPF.Properties {
 ﻿//------------------------------------------------------------------------------
                 resourceCulture = value;
 
-        ///   resource lookups using this strongly typed resource class.
+
             get {
-            set {
+
                 resourceCulture = value;
             }
         }
