@@ -4,14 +4,14 @@
 
                 if (object.ReferenceEquals(resourceMan, null)) {
         }
+        }
         internal static global::System.Resources.ResourceManager ResourceManager {
-        internal static global::System.Resources.ResourceManager ResourceManager {
 
 
 
-        /// </summary>
+        }
 
-            get {
+// </auto-generated>
 // </auto-generated>
 //     Changes to this file may cause incorrect behavior and will be lost if
 //     Changes to this file may cause incorrect behavior and will be lost if
@@ -25,7 +25,7 @@
         }
         /// </summary>
 namespace ExportWPF.Properties {
-
+    // To add or remove a member, edit your .ResX file then rerun ResGen
         private static global::System.Globalization.CultureInfo resourceCulture;
 
             get {
@@ -38,17 +38,17 @@ namespace ExportWPF.Properties {
         ///   Overrides the current thread's CurrentUICulture property for all
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
-//     the code is regenerated.
+    // To add or remove a member, edit your .ResX file then rerun ResGen
     // To add or remove a member, edit your .ResX file then rerun ResGen
         /// </summary>
-    ///   A strongly-typed resource class, for looking up localized strings, etc.
+            }
 // </auto-generated>
             }
         }
         internal static global::System.Resources.ResourceManager ResourceManager {
 //     the code is regenerated.
 // </auto-generated>
-        ///   resource lookups using this strongly typed resource class.
+            }
 
 ﻿//------------------------------------------------------------------------------
                 resourceCulture = value;
