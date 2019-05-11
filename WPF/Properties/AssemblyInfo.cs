@@ -3,11 +3,11 @@
 
 
 
-    ResourceDictionaryLocation.SourceAssembly //where the generic resource dictionary is located
+
 
 [assembly: AssemblyVersion("1.0.0.0")]
 
-[assembly: AssemblyTitle("WpfApp1")]
+
 
 [assembly: AssemblyCulture("")]
 //[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
@@ -15,32 +15,32 @@
 
 //In order to begin building localizable applications, set
 [assembly: AssemblyCulture("")]
-[assembly: AssemblyCulture("")]
+[assembly: ThemeInfo(
+//[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
 
 
-
-
+//[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
 //In order to begin building localizable applications, set
 
-//In order to begin building localizable applications, set
+[assembly: AssemblyVersion("1.0.0.0")]
 
 
 )]
 
 [assembly: AssemblyCulture("")]
-[assembly: AssemblyCulture("")]
 
-[assembly: AssemblyTrademark("")]
+
+[assembly: AssemblyVersion("1.0.0.0")]
 [assembly: ThemeInfo(
     ResourceDictionaryLocation.SourceAssembly //where the generic resource dictionary is located
 [assembly: AssemblyVersion("1.0.0.0")]
+)]
+
+[assembly: AssemblyCulture("")]
 
 
-[assembly: AssemblyTitle("WpfApp1")]
 
-
-
-[assembly: AssemblyVersion("1.0.0.0")]
+    ResourceDictionaryLocation.SourceAssembly //where the generic resource dictionary is located
 
 [assembly: AssemblyVersion("1.0.0.0")]
 
@@ -49,7 +49,7 @@
 
 
 
-[assembly: AssemblyTitle("WpfApp1")]
+//[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
 
 
 //[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
