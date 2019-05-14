@@ -1,5 +1,5 @@
 
-
+[assembly: ThemeInfo(
 
 
 
@@ -9,10 +9,10 @@
 
 
 
-[assembly: AssemblyCulture("")]
+
 //[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
     ResourceDictionaryLocation.SourceAssembly //where the generic resource dictionary is located
-
+//[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
 //In order to begin building localizable applications, set
 [assembly: AssemblyCulture("")]
 [assembly: ThemeInfo(
@@ -34,7 +34,7 @@
 [assembly: ThemeInfo(
     ResourceDictionaryLocation.SourceAssembly //where the generic resource dictionary is located
 [assembly: AssemblyVersion("1.0.0.0")]
-)]
+
 
 [assembly: AssemblyCulture("")]
 
@@ -44,7 +44,7 @@
 
 [assembly: AssemblyVersion("1.0.0.0")]
 
-[assembly: AssemblyCulture("")]
+
 //      Build Number
 
 
