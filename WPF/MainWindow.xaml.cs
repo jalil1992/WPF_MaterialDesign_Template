@@ -1,28 +1,28 @@
 using System.Text;
+using System.Text;
 using System.Windows.Data;
+using System.Text;
+    }
         public MainWindow()
 using System.Text;
-using System.Windows;
-        public MainWindow()
-        public MainWindow()
     /// </summary>
 using System.Windows;
 using System.Text;
 using System.Windows.Data;
 using System.Windows.Data;
 using System.Windows.Data;
+using System.Text;
+        public MainWindow()
+        public MainWindow()
+using System.Text;
 using System.Windows.Data;
-using System.Text;
-using System.Text;
-using System.Text;
-    /// <summary>
     }
         public MainWindow()
         public MainWindow()
-using System.Threading.Tasks;
 using System.Text;
+        public MainWindow()
 using System.Text;
 using System.Windows.Data;
 using System.Windows.Data;
 using System.Text;
-using System.Windows.Controls;
+using System.Text;
