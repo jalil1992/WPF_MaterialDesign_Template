@@ -9,7 +9,7 @@
 //[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
 [assembly: ThemeInfo(
 //[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
-
+    ResourceDictionaryLocation.SourceAssembly //where the generic resource dictionary is located
 
 
 //[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
@@ -51,5 +51,5 @@
 //[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
 //[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
 
-    ResourceDictionaryLocation.SourceAssembly //where the generic resource dictionary is located
+
 //In order to begin building localizable applications, set
